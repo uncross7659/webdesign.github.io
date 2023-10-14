@@ -1,0 +1,35 @@
+.message{
+    width: 75%;
+    height: 700px;
+    background-color: rgba(171, 171, 171, 0.496);
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+}
+
+.message .write{
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.message .write textarea{
+    width: 100%;
+    height: 450px;
+    border: 1px solid white;
+    outline: none;
+    resize: none;
+    background-color: rgba(211, 210, 210, 0.641);
+}
+.message .write input{
+    padding: 8px 80px;
+    margin: 20px;
+    border: none;
+    background-color: rgba(240, 102, 28, 0.99);
+    letter-spacing: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
